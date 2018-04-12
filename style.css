@@ -1,0 +1,11 @@
+body {
+    background-color: gray;
+    background-image:url('Background.jpg');
+
+}
+
+#cv {
+    display: block;
+    margin: 50px auto;
+    cursor: url("viseur.png"),auto;
+}
